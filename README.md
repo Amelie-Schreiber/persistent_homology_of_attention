@@ -3,7 +3,7 @@ If you don't have Jupyter Lab/Notebooks already installed and working, go downlo
 
 ---
 
-[simplicial_complex_2](https://github.com/Amelie-Schreiber/persistent_homology_of_attention/blob/main/simplicial_complex_2.png).
+![simplicial_complex_2](https://github.com/Amelie-Schreiber/persistent_homology_of_attention/blob/main/simplicial_complex_2.png)
 
 ---
 
