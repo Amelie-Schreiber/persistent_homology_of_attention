@@ -6,6 +6,7 @@ If you don't have Jupyter Lab/Notebooks already installed and working, go downlo
 ![simplicial_complex_2](https://github.com/Amelie-Schreiber/persistent_homology_of_attention/blob/main/simplicial_complex_2.png)
 
 ---
+## What is Persistent Homology and how can it be used in transformers and NLP?
 
 Persistent homology is a tool from the field of topological data analysis (TDA) that studies the topology of data and aims to extract meaningful features from complex datasets. It can be applied to a wide range of domains, including text analysis and attention mechanisms in transformers.
 
