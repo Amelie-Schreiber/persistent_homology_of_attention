@@ -1,7 +1,7 @@
 # persistent_homology_of_attention
 If you don't have Jupyter Lab/Notebooks already installed and working, go download [Anaconda](https://www.anaconda.com/). When it's finished downloading, open it and open a new instance of Jupyter Lab. Then you can run the [notebook](https://github.com/Amelie-Schreiber/persistent_homology_of_attention/blob/main/persistent_homology_attention.ipynb).
 
-Persistent homology is a powerful tool from the field of topological data analysis (TDA) that studies the topology of data and aims to extract meaningful features from complex datasets. It can be applied to a wide range of domains, including text analysis and attention mechanisms in transformers.
+Persistent homology is a tool from the field of topological data analysis (TDA) that studies the topology of data and aims to extract meaningful features from complex datasets. It can be applied to a wide range of domains, including text analysis and attention mechanisms in transformers.
 
 In the context of text analysis and attention mechanisms in transformers, persistent homology can be used to:
 
