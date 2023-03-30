@@ -1,0 +1,9 @@
+numpy 
+torch 
+transformers 
+gudhi 
+matplotlib 
+networkx 
+scipy
+plotly==5.3.1
+ipywidgets==7.6.5
