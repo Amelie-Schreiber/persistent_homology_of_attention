@@ -7,6 +7,7 @@ If you don't have Jupyter Lab/Notebooks already installed and working, go downlo
 
 ---
 ## What is Persistent Homology and how can it be used in transformers and NLP?
+
 In the notebook, if two token nodes are connected in a cluster, they are information theoretically related in the text. To understand this better, keep reading and try running the notebook. 
 
 Persistent homology is a tool from the field of topological data analysis (TDA) that studies the topology of data and aims to extract meaningful features from complex datasets. It can be applied to a wide range of domains, including text analysis and attention mechanisms in transformers.
