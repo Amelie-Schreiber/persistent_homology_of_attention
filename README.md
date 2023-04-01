@@ -27,3 +27,11 @@ In the context of text analysis and attention mechanisms in transformers, persis
 6. Comparing Languages: Comparing the persistent homology and associated simplicial complexes of different languages may allow us to improve translation models. This can help identify patterns in the alignment of words or phrases, which can provide a better understanding of the translation process and potentially improve the translation model. Comparing the persistent homology features of different translation models can reveal differences in their attention mechanisms and how they align source and target languages. Persistent homology can be used to analyze the topological similarity between different languages or language families.
 
 In summary, persistent homology offers a unique perspective for analyzing text and attention mechanisms in transformers. By extracting topological features from attention distributions, we can gain insights into the structure of text and the inner workings of transformer models, potentially leading to improvements in model interpretability and performance.
+
+---
+
+## References and Further Reading
+For a good reference on transformers please see:
+[Are Transformers universal approximators of sequence-to-sequence functions?](https://arxiv.org/abs/1912.10077)
+For a reference on persistent homology and its use to study entanglement, which was inspiration for this work, please see:
+[Persistent homology of quantum entanglement](https://arxiv.org/abs/2110.10214)
